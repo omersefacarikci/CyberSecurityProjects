@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="300" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/kalibanner.gif" alt="Banner" />
 </p>
 <h1 align="center">Cyber Security Projects</h1>
 
